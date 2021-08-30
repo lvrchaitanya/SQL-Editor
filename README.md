@@ -3,7 +3,7 @@
 ### Hosted it on
   [Nitlify](https://csb-4fzzm.netlify.app/) \
   [Github Pages](https://lvrchaitanya.github.io/csb-4fzzm/)\
-  [Vercel](https://csb-4fzzm-nbi0r3p4m-lvrchaitanya.vercel.app/)
+  [Vercel](https://csb-4fzzm-reoel9n4d-lvrchaitanya.vercel.app/)
   
  ### Page Load Time
   * Used [WebPageTest](https://www.webpagetest.org/easy) to Analyze the Web App perforance.
