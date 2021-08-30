@@ -7,7 +7,7 @@
   
  ### Page Load Time
   * Used [WebPageTest](https://www.webpagetest.org/easy) to Analyze the Web App perforance.
-  * For Time to First Bite is **0.2S** to **0.3S** For FUll Page lode time is between **1S - 1.3S** when teseted multiple times ([Results](https://www.webpagetest.org/result/210830_AiDc7J_49a5ed5882664b3672b46c1507eab4b7/)).
+  * For Time to First Bite is **0.2S** to **0.3S**. And For Full Page lode ,time is between **1S - 1.3S** when teseted multiple times ([Results](https://www.webpagetest.org/result/210830_AiDc7J_49a5ed5882664b3672b46c1507eab4b7/)).
  
  ### Steps Taken to Reduse Page Load Time
  * Removed Unused Packages.
