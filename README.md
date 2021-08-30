@@ -6,8 +6,10 @@
   [Vercel](https://csb-4fzzm-reoel9n4d-lvrchaitanya.vercel.app/)
   
  ### Page Load Time
+  * Load time When tested on [Pingdom](https://tools.pingdom.com/#5ee5c681a6800000) is **0.6S - 0.7S**
   * Used [WebPageTest](https://www.webpagetest.org/easy) to Analyze the Web App perforance.
-  * For Time to First Bite is **0.2S** to **0.3S**. And For Full Page lode ,time is between **1S - 1.3S** when teseted multiple times ([Results](https://www.webpagetest.org/result/210830_AiDc7J_49a5ed5882664b3672b46c1507eab4b7/)).
+  * **Time to First Bite** is **0.2S** to **0.3S**. 
+  * For Full Page lode time is between **1S - 1.3S** when teseted multiple times ([Results](https://www.webpagetest.org/result/210830_AiDc7J_49a5ed5882664b3672b46c1507eab4b7/)).
  
  ### Steps Taken to Reduse Page Load Time
  * Removed Unused Packages.
