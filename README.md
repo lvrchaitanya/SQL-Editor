@@ -1,9 +1,9 @@
 # SQL-Editor
 
 ### Hosted it on
-  [Nitlify](https://csb-4fzzm.netlify.app/) \
-  [Github Pages](https://lvrchaitanya.github.io/csb-4fzzm/)\
-  [Vercel](https://csb-4fzzm-reoel9n4d-lvrchaitanya.vercel.app/)
+  Nitlify [App Link](https://csb-4fzzm.netlify.app/) \
+  Github Pages [App Link](https://lvrchaitanya.github.io/csb-4fzzm/)\
+  Vercel [App Link](https://csb-4fzzm-reoel9n4d-lvrchaitanya.vercel.app/)
   
  ### Page Load Time
   * Load time When tested on [Pingdom](https://tools.pingdom.com/#5ee5c681a6800000) is **0.6S - 0.7S**
