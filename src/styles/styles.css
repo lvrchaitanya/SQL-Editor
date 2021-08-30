@@ -1,0 +1,47 @@
+html body {
+  margin: 0;
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(34, 68, 171, 1) 0%,
+    rgba(37, 72, 174, 1) 28%,
+    rgba(39, 132, 224, 1) 100%,
+    rgba(39, 125, 218, 1) 100%
+  );
+}
+.App {
+  font-family: sans-serif;
+
+  height: 94vh;
+  width: 96vw;
+  margin-top: 3vh;
+  margin-left: 2vw;
+  display: grid;
+  grid-template: 0.15fr 1fr 1fr / 1fr 4fr;
+  box-sizing: border-box;
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(34, 68, 171, 1) 0%,
+    rgba(37, 72, 174, 1) 28%,
+    rgba(39, 132, 224, 1) 100%,
+    rgba(39, 125, 218, 1) 100%
+  );
+}
+
+/* Navbar CSS */
+.nav {
+  border-radius: 1rem 1rem 0 0;
+  background-color: white;
+  grid-column: 1 / 3;
+  border-bottom: 2px solid #eeeff1;
+  text-align: center;
+  color: rgb(53, 49, 49);
+}
+.nav h3 {
+  margin: 1.6% 4%;
+  letter-spacing: 0.2rem;
+  font-size: 1.3rem;
+}
