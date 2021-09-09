@@ -2,7 +2,6 @@
 
 ### Hosted it on
   Netlify [App Link](https://csb-4fzzm.netlify.app/) \
-  Github Pages [App Link](https://lvrchaitanya.github.io/csb-4fzzm/)\
   Vercel [App Link](https://csb-4fzzm-reoel9n4d-lvrchaitanya.vercel.app/)
   
  ### Page Load Time
